@@ -22,6 +22,22 @@
 .App-link {
   color: #61dafb;
 }
+.title {
+  font-family: "Chewy", cursive;
+  font-size: x-large;
+}
+.navbar {
+  
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin-left: 400px;
+  font-size: xx-large;
+  font-weight: 600;
+  font-family: "Chewy", cursive;
+  font-family: "Rancho", cursive;
+  font-family: "Fredericka the Great", cursive;
+}
 
 @keyframes App-logo-spin {
   from {
